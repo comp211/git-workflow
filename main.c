@@ -10,6 +10,10 @@ int main()
 
     int secret = rand() % 256;
 
+    printf("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n");
+    printf("Welcome to the binary search game!\n");
+    printf("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n");
+
     printf("I'm thinking of a number between 0 and 255...\n");
     int guess = -1;
 
