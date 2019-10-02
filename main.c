@@ -3,6 +3,7 @@
 
 int main()
 {
-    printf("Hello, world.\n");
+    printf("Welcome to my awesome application...\n");
+    printf("Don't you think it's great?\n");
     return EXIT_SUCCESS;
 }
